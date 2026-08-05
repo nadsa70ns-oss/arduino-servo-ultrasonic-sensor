@@ -22,7 +22,7 @@ If the sensor detects an object at a distance of 10 cm or more, the servo moves 
 
 
 ## 🎥 Demo Video
-
+demo-video .mov
 
 ## 💻 Code
 The code is in [`servo-sensor.ino`](servo-senso.ino)
