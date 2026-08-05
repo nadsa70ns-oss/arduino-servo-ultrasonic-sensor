@@ -18,13 +18,14 @@ If the sensor detects an object at a distance of 10 cm or more, the servo moves 
 **Servo:** GND (brown)→GND | VCC (red)→5V | Signal (yellow)→Pin 6
 
 ## 📷 Setup Photo
-![Setup Photo](images/setup_photo.jpg)
+![Setup Photo](<img width="2858" height="3024" alt="image" src="https://github.com/user-attachments/assets/e8992626-9cf9-42e9-9306-979961c61363" />
+)
 
 ## 🎥 Demo Video
 [Watch here](video_link)
 
 ## 💻 Code
-The code is in [`servo_sensor_project.ino`](servo_sensor_project.ino)
+The code is in [`servo-sensor.ino`](servo-senso.ino)
 
 ## ⚙️ Usage
 1. Wire the components as shown above
