@@ -5,27 +5,27 @@ An Arduino project that controls a servo motor based on readings from an ultraso
 ## 📋 How It Works
 If the sensor detects an object at a distance of 10 cm or more, the servo moves to a set angle. If the object gets closer than that, the servo returns to its resting position.
 
-## 🧰 Components
+## Components
 - Arduino UNO
 - Ultrasonic Sensor (HC-SR04)
 - Servo Motor (SG90)
 - Jumper Wires
 
-## 🔌 Wiring
+##  Wiring
 
 **HC-SR04:** VCC→5V | GND→GND | Trig→Pin 9 | Echo→Pin 10
 
 **Servo:** GND (brown)→GND | VCC (red)→5V | Signal (yellow)→Pin 6
 
-## 📷 Setup Photo
+##  Setup Photo
 <img width="3024" height="3358" alt="image" src="https://github.com/user-attachments/assets/a9f30cf3-0288-4dbe-b7ff-1114b3b3b3b1" />
 
 
-## 🎥 Demo Video
+##  Demo Video
 [Watch here](demo-video.mov)
 
 
-## 💻 Code
+##  Code
 The code is in [`servo-sensor.ino`](servo-senso.ino)
 
 ## ⚙️ Usage
